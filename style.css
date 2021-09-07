@@ -43,7 +43,7 @@ html{
     border-radius: 4px;
 }
   
-  #myBtn:hover{
+#myBtn:hover{
     background-color: #555;
 }
 
@@ -83,7 +83,7 @@ section{
 
 .btn:hover{
   background:rgba(255, 166, 0, 0);
-  color:#fff;
+  color:#a19c9c;
 }
 
 header{
