@@ -83,7 +83,7 @@ section{
 
 .btn:hover{
   background:rgba(255, 166, 0, 0);
-  color:#a19c9c;
+  color:var(--orange);
 }
 
 header{
