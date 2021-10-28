@@ -4,3 +4,7 @@ HTML
 CSS
 JAVASCRIPT
   
+#Task2 - Create a web application
+HTML
+CSS
+JAVASCRIPT
